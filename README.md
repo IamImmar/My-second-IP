@@ -36,6 +36,14 @@ For you to clone this repository:
 ### Reference
 w3Schools
 
+#### BDD
+-OBJECTIVES
+1. User inputs the date, month and year of birth.
+2. User se;ects their gender.
+3. On clicking Akan Names Generator, calculations are done on the web.
+4. The web displays their Akan Names and displays the day of the week they were born.
+
+
 ##### License
 Copyright  2022 Program Corporation. All rights reserved. The program is a subject to licence
 agreement, copyright, trademark, patent and other laws.
